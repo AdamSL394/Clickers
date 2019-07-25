@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Navbar from '/components/Navbar/navbar'
 import App from './App';
 
 it('renders without crashing', () => {
