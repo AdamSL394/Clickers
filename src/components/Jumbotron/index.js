@@ -1,11 +1,20 @@
 import React from "react";
 
+const style ={
+    jumbotron:{
+height:100
+    }
+}
+
+
+
 function Jumbotron(props) {
     return (
-        <div className="jumbotron jumbotron-fluid">
+        <div className="jumbotron jumbotron-fluid mb-3" style={style.jumbotron}>
             <div className="container">
-                <h1 className="display-4">Fluid jumbotron</h1>
-                <p className="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+                <h1 className="display-4" >{props.name}</h1>
+                <p>{props.name}</p>
+                <p className="lead">{props.message} </p>
             </div>
         </div>
     )

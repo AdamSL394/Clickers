@@ -4,84 +4,96 @@
         "name": "France",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/06/40/top-10-vacation-spots-paris.rend.hgtvcom.616.462.suffix/1491591583118.jpeg",
         "alt": "Paris",
-        "location": "Paris"
+        "location": "Paris",
+        "picked":false
     },
     {
         "id": 2,
         "name": "New York",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2014/12/2/top-10-vacation-spots-new-york-city.jpg.rend.hgtvcom.616.462.suffix/1491584557358.jpeg",
         "alt": "New York",
-        "location": "New York"
+        "location": "New York",
+        "picked":false
     },
     {
         "id": 3,
         "name": "Italy",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2014/12/2/top-10-vacation-spots-rome-colluseum.jpg.rend.hgtvcom.616.462.suffix/1491584557313.jpeg",
         "alt": "Rome",
-        "location": "Rome"
+        "location": "Rome",
+        "picked":false
     },
     {
         "id": 4,
         "name": "Mexico",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/06/6d/top-10-vacation-spots-cancun.rend.hgtvcom.616.462.suffix/1491591583276.jpeg",
         "alt": "Cancun",
-        "location": "Cancun"
+        "location": "Cancun",
+        "picked":false
     },
     {
         "id": 5,
         "name": "England",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2014/12/2/top-10-vacation-spots-london-big-ben.jpg.rend.hgtvcom.616.462.suffix/1491584557692.jpeg",
         "alt": "London",
-        "location": "London"
+        "location": "London",
+        "picked":false
     },
     {
         "id": 6,
         "name": "Florida",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/06/2a/top-10-vacation-spots-miami.rend.hgtvcom.616.462.suffix/1491591583444.jpeg",
         "alt": "Miami",
-        "location": "Miami"
+        "location": "Miami",
+        "picked":false
     },
     {
         "id": 7,
         "name": "Florida",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/06/27/top-10-vacation-spots-orlando.rend.hgtvcom.616.462.suffix/1491591583135.jpeg",
         "alt": "Orlando",
-        "location": "Orlando"
+        "location": "Orlando",
+        "picked":false
     },
     {
         "id": 8,
         "name": "California",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2014/12/2/top-10-vacation-spots-san-francisco.jpg.rend.hgtvcom.616.462.suffix/1491584557321.jpeg",
         "alt": "San Francisco",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "picked":false
     },
     {
         "id": 9,
         "name": "Myrtle Beach",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/06/00/top-10-vacation-spots-myrtle-beach.rend.hgtvcom.616.462.suffix/1491591583167.jpeg",
         "alt": "South Carolina",
-        "location": "South Carolina"
+        "location": "South Carolina",
+        "picked":false
     },
     {
         "id": 10,
         "name": "Missouri",
         "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/06/0f/top-10-vacation-spots-branson.rend.hgtvcom.616.462.suffix/1491591583328.jpeg",
         "alt": "South Carolina",
-        "location": "South Carolina"
+        "location": "South Carolina",
+        "picked":false
     },
     {
         "id": 11,
         "name": "Tahiti",
         "image": "https://www.usnews.com/dims4/USNEWS/24b1dfe/2147483647/resize/1200x%3E/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2Fa0%2F53%2F600ab27b4832be681e1494a035ea%2F28.%20-4.%20Tahiti%2C%20French%20Polynesia-Getty.jpg",
         "alt": "French Polynesia",
-        "location": "French Polynesia"
+        "location": "French Polynesia",
+        "picked":false
     },
     {
         "id": 12,
         "name": "South Island",
         "image": "https://www.usnews.com/dims4/USNEWS/e9fb0f9/2147483647/resize/1200x%3E/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2Ffb%2Fef%2Fc12360464b8b95b40037301de130%2F26.%206-South%20Island-Getty.jpg",
         "alt": "New Zealand",
-        "location": "New Zealand"
+        "location": "New Zealand",
+        "picked":false
     }
 
 ]

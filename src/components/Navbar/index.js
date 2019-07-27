@@ -11,11 +11,11 @@ function Navbar(props) {
                 <li className="nav-item mr-5">
                     <p>Clicky Game</p>
                 </li>
-                <li className="nav-item">
-                    <p>Counter:{props.counter}</p>
+                <li className="nav-item mr-4">
+                    <p>Counter: {props.counter}</p>
                 </li>
-                <li className="nav-item">
-
+                <li className="nav-item ">
+                    <p>High Score: {props.counter}</p>
                 </li>
                 <li className="nav-item">
                 </li>
