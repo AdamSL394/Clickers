@@ -17,8 +17,11 @@ function CardImages(props) {
             <div className="content">
             <img id="dream" style={style.dream} alt={props.alt} src={props.image} />
             </div>
-            <span className="remove"  onClick={()=> 
+            {/* <span className="remove"  onClick={()=> 
                 props.shuffleVacation(props.id) 
+                } >𝘅</span> */}
+                <span className="remove"  
+                onClick={() => props.wasPicked(props.id,props.picked) 
                 } >𝘅</span>
         </div>
     )

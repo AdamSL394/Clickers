@@ -15,7 +15,7 @@ function Navbar(props) {
                     <p>Counter: {props.counter}</p>
                 </li>
                 <li className="nav-item ">
-                    <p>High Score: {props.counter}</p>
+                    <p>High Score: {props.highscore}</p>
                 </li>
                 <li className="nav-item">
                 </li>
