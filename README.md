@@ -22,7 +22,7 @@ Author
 Adam Lehrer
 
 ![Clicky Game](/assets/clickers.png)
-![Bark](/public/assets/images/Main.png)
+
 
 
 
