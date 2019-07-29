@@ -2,7 +2,8 @@ import React from "react";
 
 const style ={
     jumbotron:{
-height:100
+height:100,
+backgroundColor:  "#f69d3c"
     }
 }
 
