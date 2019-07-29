@@ -54,7 +54,7 @@ class App extends React.Component {
     return (
       <div>
         <Navbar counter={this.state.counter} highscore={this.state.highscore} />
-        <Jumbotron message={this.state.message} />
+        <Jumbotron message={this.state.message}  />
         <div className="container justify-content-between">
           {this.state.cardcontent.map((element, i) => {
             return <Cards
